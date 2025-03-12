@@ -1,3 +1,4 @@
+# Furniture arrangement in a small room (Input: room dimensions, furniture constraints → Output: optimized furniture placement).
 import streamlit as st
 import numpy as np
 import random
